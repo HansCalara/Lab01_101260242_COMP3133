@@ -1,0 +1,26 @@
+{
+  "name": "Lab01_101260242_COMP3133",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HansCalara/Lab01_101260242_COMP3133.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HansCalara/Lab01_101260242_COMP3133/issues"
+  },
+  "homepage": "https://github.com/HansCalara/Lab01_101260242_COMP3133#readme"
+}
